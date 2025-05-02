@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SMTP Checker", "SMTP Checker\SMTP Checker.vbproj", "{888ACC89-28FB-4886-8206-8E625C6ED280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{888ACC89-28FB-4886-8206-8E625C6ED280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888ACC89-28FB-4886-8206-8E625C6ED280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888ACC89-28FB-4886-8206-8E625C6ED280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888ACC89-28FB-4886-8206-8E625C6ED280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D617D11E-48CF-47F9-8C86-7C674D0CC6DD}
+	EndGlobalSection
+EndGlobal
